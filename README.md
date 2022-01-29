@@ -4,6 +4,6 @@ Este é um formulario para aprimorar minhas habilidade e aumentar a pratica e co
 https://leandro-belo.github.io/forms/
 
 <p align="left">
-  <img src="forms simples.png" width="350">
+  <img src="forms simples.png">
   
 </p>
